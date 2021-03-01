@@ -2,7 +2,6 @@ package nl.codedependency.classmapper.util.testclass.destpkg;
 
 import lombok.Getter;
 import lombok.Setter;
-import nl.codedependency.classmapper.util.testclass.sourcepkg.SourceTestClass;
 
 import java.util.List;
 import java.util.Map;
