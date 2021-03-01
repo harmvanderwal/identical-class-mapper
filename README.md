@@ -1,4 +1,4 @@
-# Identical file mapper
+# Identical Class Mapper
 
 This tool adds support for mapping identical classes on each other.
 It's made as a PoC for recursive mapping of classes using generics and reflection.
