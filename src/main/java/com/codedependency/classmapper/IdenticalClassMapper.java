@@ -1,4 +1,4 @@
-package nl.codedependency.classmapper;
+package com.codedependency.classmapper;
 
 import lombok.extern.slf4j.Slf4j;
 

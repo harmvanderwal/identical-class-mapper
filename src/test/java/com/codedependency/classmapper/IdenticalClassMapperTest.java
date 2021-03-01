@@ -1,7 +1,7 @@
-package nl.codedependency.classmapper;
+package com.codedependency.classmapper;
 
-import nl.codedependency.classmapper.testclass.sourcepkg.SourceTestClass;
-import nl.codedependency.classmapper.testclass.destpkg.DestTestClass;
+import com.codedependency.classmapper.testclass.sourcepkg.SourceTestClass;
+import com.codedependency.classmapper.testclass.destpkg.DestTestClass;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
