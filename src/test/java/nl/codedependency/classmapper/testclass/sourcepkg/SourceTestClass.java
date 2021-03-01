@@ -1,4 +1,4 @@
-package nl.codedependency.classmapper.util.testclass.sourcepkg;
+package nl.codedependency.classmapper.testclass.sourcepkg;
 
 import lombok.Getter;
 import lombok.Setter;

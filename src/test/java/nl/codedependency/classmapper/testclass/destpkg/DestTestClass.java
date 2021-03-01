@@ -1,4 +1,4 @@
-package nl.codedependency.classmapper.util.testclass.destpkg;
+package nl.codedependency.classmapper.testclass.destpkg;
 
 import lombok.Getter;
 import lombok.Setter;
